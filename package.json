@@ -1,5 +1,6 @@
 {
-  "version": "0.1.0",
+  "name": "yexaastorybook",
+  "version": "0.0.1",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -38,7 +39,6 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "subhash-storybook",
   "author": {
     "name": "shell"
   },
@@ -95,6 +95,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/subhashshell/subhash-storybook.git"
+    "url": "https://github.com/subhashmahimaluri/yexaastorybook"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
   }
 }
