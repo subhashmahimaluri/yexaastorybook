@@ -1,7 +1,6 @@
 {
   "name": "yexaastorybook",
   "version": "0.0.1",
-  "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
@@ -38,9 +37,6 @@
     "semi": true,
     "singleQuote": true,
     "trailingComma": "es5"
-  },
-  "author": {
-    "name": "shell"
   },
   "module": "dist/shared-storybook.esm.js",
   "size-limit": [
@@ -95,7 +91,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/subhashmahimaluri/yexaastorybook"
+    "url": "git://github.com/subhashmahimaluri/yexaastorybook.git"
   },
   "publishConfig": {
     "registry":"https://npm.pkg.github.com"
