@@ -89,10 +89,6 @@
   "dependencies": {
     "@rollup/plugin-replace": "^4.0.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/subhashmahimaluri/yexaastorybook.git"
-  },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com",
     "scope": "@subhashmahimaluri/yexaastorybook"
