@@ -1,6 +1,6 @@
 {
   "name": "yexaastorybook",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
@@ -94,6 +94,6 @@
     "url": "git://github.com/subhashmahimaluri/yexaastorybook.git"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   }
 }
